@@ -11,6 +11,10 @@
         },
         {
             "path": "vscode-dotnet-runtime-library"
+        },
+        {
+            "name": "vscode-dotnet-runtime-1",
+            "path": "../vscode-dotnet-runtime-1"
         }
     ],
     "settings": {
